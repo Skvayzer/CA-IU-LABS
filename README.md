@@ -1,1 +1,1 @@
-# ComputerArchitectureLab
+# Computer Architecture Labs in Innopolis University
